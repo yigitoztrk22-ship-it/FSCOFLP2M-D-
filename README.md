@@ -6,10 +6,7 @@ Converts native FL Studio 21 `.fsc` score files and `.flp` projects to Standard 
 
 Open PowerShell:
 
-```powershell
-cd C:\Users\bahad\FSCOFLP2M-D-
-python gui.py
-```
+
 
 1. Click **Browse...** beside **Input FSC/FLP**.
 2. Select your native `.fsc` score or `.flp` project.
