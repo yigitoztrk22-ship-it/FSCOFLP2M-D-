@@ -1,13 +1,5 @@
 # FLP Note Converter
 
-Converts native FL Studio 21 `.fsc` score files and `.flp` projects to Standard MIDI. The GUI uses Python and does not require Rust, Cargo, Visual Studio, or `link.exe`.
-
-## Run it
-
-Open PowerShell:
-
-
-
 1. Click **Browse...** beside **Input FSC/FLP**.
 2. Select your native `.fsc` score or `.flp` project.
 3. Choose an output `.mid` path.
